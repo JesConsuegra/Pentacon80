@@ -16,6 +16,7 @@ The adapter is made of five parts: the main body (printed barrel), where the P80
 the L39 adapter (acquired), one m4 nut and bolt (at the hardware store) to fix the lens to 
 the barrel, a printed knob to twist the bolt, and a printed shade for the lens.
 Being a projector lens it doesn't have any coating on the lenses, so a lot of flare
-is being produced under sunlight. The shade alleviates de problem.
+is being produced under sunlight. The shade alleviates de problem. It fits quite tight on the top of the lens just pressing it.
+The knob is for a standard metric M4 allen head. Has to be superglued to the screw.
 
 
