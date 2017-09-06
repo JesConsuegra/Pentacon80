@@ -1,5 +1,7 @@
 # Pentacon80
 Adapter to use the Pentacon 80 projection lens on modern mirrorrless cameras.
+Due to the fact that is a projection lens, it shows some limitations with this adapter: No infinity reachable, althoug
+there is still a wide range of focal distances available, from macro to around 50m.
 
 The adapter is designed to be used with a L39 adapter to whatever camera mount you are using. 
 Nowadays the L39 adapters are cheap, the chinese ones for less than $5.
