@@ -1,6 +1,6 @@
 # Pentacon80
 
-![promisechains]
+!promisechains
 Adapter to use the Pentacon 80 projection lens on modern mirrorrless cameras.
 Due to the fact that is a projection lens, it shows some limitations with this adapter: No infinity reachable, althoug
 there is still a wide range of focal distances available, from macro to around 50m.
