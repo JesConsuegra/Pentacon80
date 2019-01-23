@@ -1,6 +1,6 @@
 # Pentacon80
 
-![promisechain](https://s20.postimg.org/oumpnl8zh/DSC00242e.jpg)
+![promisechain](https://s20.postimg.cc/oumpnl8zh/DSC00242e.jpg)
 
 Adapter to use the Pentacon 80 projection lens on modern mirrorrless cameras.
 Due to the fact that is a projection lens, it shows some limitations with this adapter: No infinity reachable, althoug
